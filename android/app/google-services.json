@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045978942539",
+    "project_id": "masumbook-404c1",
+    "storage_bucket": "masumbook-404c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045978942539:android:612b543480766b0e1991ce",
+        "android_client_info": {
+          "package_name": "com.example.masumbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZZwT-4B8JFh8LZRoWF6qQniweEeBONlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
